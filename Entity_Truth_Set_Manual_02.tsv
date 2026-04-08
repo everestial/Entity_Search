@@ -1,0 +1,64 @@
+Entity Name	Legal Name	Ultimate Parent	Parent Domicile (ISO alpha-2)	Is Public (Y/N)	Stock Exchange (N/A if private)	Ticker	ISIN (N/A if unavailable)	Source	Notes
+Toyota Motor Corporation	Toyota Motor Corporation	Toyota Motor Corporation	JP	Y	Tokyo Stock Exchange	7203	JP3633400001	Public Filings	N/A
+JPMorgan Chase	JPMorgan Chase & Co.	JPMorgan Chase & Co.	US	Y	NYSE	JPM	US46625H1005	SEC Filings	N/A
+Royal Dutch Shell	Shell plc	Shell plc	GB	Y	LSE	SHEL	GB00BP6MXD84	LSE Filings	Renamed from Royal Dutch Shell plc to Shell plc in Jan 2022.
+Tata Consultancy Services	Tata Consultancy Services Limited	Tata Sons Private Limited	IN	Y	NSE	TCS	INE467B01029	NSE India	Parent (Tata Sons) is private; TCS is public.
+Petrobras	Petróleo Brasileiro S.A. - Petrobras	Government of Brazil	BR	Y	B3	PETR4	BRPETRACNPR6	B3 Filings	State-controlled entity.
+AIA Group	AIA Group Limited	AIA Group Limited	HK	Y	HKEX	1299	HK0000069689	HKEX Filings	N/A
+Nokia Oyj	Nokia Oyj	Nokia Oyj	FI	Y	Nasdaq Helsinki	NOKIA	FI0009000681	Nasdaq	N/A
+Credit Suisse	Credit Suisse AG	UBS Group AG	CH	Y	SIX	UBSG	CH0244767585	UBS Investor Relations	Acquired by UBS Group AG in June 2023.
+Instagram	Instagram, LLC	Meta Platforms, Inc.	US	Y	NASDAQ	META	US30303M1027	SEC Filings	Subsidiary of Meta Platforms, Inc.
+YouTube	YouTube, LLC	Alphabet Inc.	US	Y	NASDAQ	GOOGL	US02079K3059	SEC Filings	Subsidiary of Alphabet Inc.
+Fidelity International	FIL Limited	FIL Limited	BM	N	N/A	N/A	N/A	Company Website	Private; independent from US-based Fidelity Investments (FMR).
+Skype Technologies	Skype Communications S.à r.l.	Microsoft Corporation	US	Y	NASDAQ	MSFT	US5949181045	Microsoft Filings	Subsidiary of Microsoft Corporation.
+LinkedIn Corporation	LinkedIn Corporation	Microsoft Corporation	US	Y	NASDAQ	MSFT	US5949181045	Microsoft Filings	Subsidiary of Microsoft Corporation.
+Aramco	Saudi Arabian Oil Company	Government of Saudi Arabia	SA	Y	Tadawul	2222	SA14TG012N13	Tadawul Filings	State-controlled entity.
+Infosys Limited	Infosys Limited	Infosys Limited	IN	Y	NSE	INFY	INE009A01021	NSE India	N/A
+Banco Santander	Banco Santander, S.A.	Banco Santander, S.A.	ES	Y	BMAD	SAN	ES0113900J37	CNMV Filings	N/A
+BHP Group	BHP Group Limited	BHP Group Limited	AU	Y	ASX	BHP	AU000000BHP4	ASX Filings	Unified dual-listed structure in 2022.
+ICBC	Industrial and Commercial Bank of China Limited	Central Huijin Investment	CN	Y	HKEX	1398	CNE1000003G1	HKEX Filings	State-controlled (China).
+Warner Bros Discovery	Warner Bros. Discovery, Inc.	Warner Bros. Discovery, Inc.	US	Y	NASDAQ	WBD	US9344231026	SEC Filings	Formed via merger of WarnerMedia and Discovery in 2022.
+Raytheon Technologies	RTX Corporation	RTX Corporation	US	Y	NYSE	RTX	US74965L1008	SEC Filings	Rebranded from Raytheon Technologies to RTX in 2023.
+Daimler AG	Mercedes-Benz Group AG	Mercedes-Benz Group AG	DE	Y	XETRA	MBG	DE0007100000	Company Filings	Renamed from Daimler AG to Mercedes-Benz Group AG in 2022.
+Facebook	Meta Platforms, Inc.	Meta Platforms, Inc.	US	Y	NASDAQ	META	US30303M1027	SEC Filings	Renamed from Facebook, Inc. to Meta Platforms, Inc. in 2021.
+Refinitiv	Refinitiv US Holdings Inc.	London Stock Exchange Group plc	GB	Y	LSE	LSEG	GB00B0SWJX34	LSEG Filings	Acquired by London Stock Exchange Group in 2021.
+Houlihan Lokey Inc	Houlihan Lokey, Inc.	Houlihan Lokey, Inc.	US	Y	NYSE	HLI	US4415931038	SEC Filings	Global investment bank; focus on M&A, restructuring, and valuation.
+ExxonMobil Corporation	Exxon Mobil Corporation	Exxon Mobil Corporation	US	Y	NYSE	XOM	US30231G1022	SEC Filings	Formed via merger of Exxon and Mobil in 1999. Largest US oil major.
+Haleon plc	Haleon plc	Haleon plc	GB	Y	LSE	HLN	GB00BMX86B70	LSE Filings	Consumer healthcare giant; spun off from GSK in July 2022.
+AIG	American International Group, Inc.	American International Group, Inc.	US	Y	NYSE	AIG	US0268747849	SEC Filings	Global insurance organization. Spun off Corebridge Financial (CRBG) in 2022-2024.
+Murata Manufacturing Co Ltd	Murata Manufacturing Co., Ltd.	Murata Manufacturing Co., Ltd.	JP	Y	Tokyo Stock Exchange	6981	JP3914400001	JPX Filings	Leading manufacturer of electronic components, especially ceramic capacitors.
+UPM-Kymmene Oyj	UPM-Kymmene Oyj	UPM-Kymmene Oyj	FI	Y	Nasdaq Helsinki	UPM	FI0009005987	Nasdaq Helsinki	Finnish forest industry company; leading producer of graphic papers.
+Holcim Ltd	Holcim Ltd	Holcim Ltd	CH	Y	SIX	HOLN	CH0012214059	SIX Filings	Building materials leader. Formerly LafargeHolcim; reverted to Holcim name in 2021.
+Telstra Group Limited	Telstra Group Limited	Telstra Group Limited	AU	Y	ASX	TLS	AU000000TLS2	ASX Filings	Australia's largest telecommunications company; restructured into 'Telstra Group' in 2022.
+Woolworths Group Limited	Woolworths Group Limited	Woolworths Group Limited	AU	Y	ASX	WOW	AU000000WOW2	ASX Filings	Major Australian retail conglomerate. Spun off Endeavour Group in 2021.
+TC Energy Corporation	TC Energy Corporation	TC Energy Corporation	CA	Y	TSX	TRP	CA87807B1076	TSX Filings	Formerly TransCanada. Spun off South Bow (Liquids Pipelines) in Oct 2024.
+Saint-Gobain SA	Compagnie de Saint-Gobain S.A.	Compagnie de Saint-Gobain S.A.	FR	Y	Euronext Paris	SGO	FR0000125007	Euronext	Founded in 1665; leading French multinational in construction and high-performance materials.
+Fresenius SE & Co KGaA	Fresenius SE & Co. KGaA	Else Kröner-Fresenius-Stiftung	DE	Y	XETRA	FRE	DE0005785604	Deutsche Börse	Healthcare conglomerate. Majority owner of Fresenius Medical Care (FME).
+State Bank of India	State Bank of India	Government of India	IN	Y	NSE	SBIN	INE062A01020	NSE India	Largest public sector bank in India. Statutory body under the SBI Act 1955.
+Samsung Biologics Co Ltd	Samsung Biologics Co., Ltd.	Samsung Electronics / Samsung C&T	KR	Y	KRX	207940	KR7207940008	KRX Filings	Major biopharmaceutical CDMO within the Samsung Group.
+America Movil SAB de CV	América Móvil, S.A.B. de C.V.	América Móvil, S.A.B. de C.V.	MX	Y	BMV	AMX	MXP001691213	BMV Filings	Mexican telecom giant controlled by the Slim family. Spun off Sitios Latinoamérica in 2022.
+Qatar National Bank	Qatar National Bank (Q.P.S.C.)	Qatar Investment Authority	QA	Y	QSE	QNBK	QA0006929895	QSE Filings	Largest commercial bank in the Middle East and Africa. 50% state-owned.
+ING Group NV	ING Groep N.V.	ING Groep N.V.	NL	Y	Euronext Amsterdam	INGA	NL0011821202	Euronext	Global Dutch bank. Traces roots to NMB Postbank and Nationale-Nederlanden merger.
+Oracle Corporation	Oracle Corporation	Oracle Corporation	US	Y	NYSE	ORCL	US68389X1054	SEC Filings	Tech giant. Moved HQ from Redwood City, CA to Austin, TX in 2020.
+Crocs Inc	Crocs, Inc.	Crocs, Inc.	US	Y	NASDAQ	CROX	US2270461096	SEC Filings	Global casual footwear brand; acquired HEYDUDE in Feb 2022.
+Merck KGaA	Merck KGaA	E. Merck KG	DE	Y	XETRA	MRK	DE0006599905	Deutsche Börse	German science and technology company. Not to be confused with US-based Merck & Co. (MSD).
+Mondelez International Inc	Mondelez International, Inc.	Mondelez International, Inc.	US	Y	NASDAQ	MDLZ	US6092071058	SEC Filings	Successor to Kraft Foods snacks business. Brands include Oreo, Cadbury, and Nabisco.
+Eaton Corporation plc	Eaton Corporation plc	Eaton Corporation plc	IE	Y	NYSE	ETN	IE00B8KQN827	SEC Filings	Power management company headquartered in Dublin, Ireland (domiciled there since 2012).
+CK Asset Holdings Limited	CK Asset Holdings Limited	Li Ka Shing Foundation	KY	Y	HKEX	1113	KYG2177B1014	HKEX Filings	Hong Kong real estate conglomerate; part of the CK Hutchison ecosystem.
+AMD	Advanced Micro Devices, Inc.	Advanced Micro Devices, Inc.	US	Y	NASDAQ	AMD	US0079031078	SEC Filings	Major semiconductor manufacturer; acquired Xilinx in 2022.
+CLP Holdings Limited	CLP Holdings Limited	CLP Holdings Limited	HK	Y	HKEX	2	HK0002007356	HKEX Filings	China Light and Power; one of the two main electricity generators in Hong Kong.
+GE Aerospace	General Electric Company	General Electric Company	US	Y	NYSE	GE	US3696043013	SEC Filings	Primary remaining business of GE after spinning off GE HealthCare (2023) and GE Vernova (2024).
+HSBC	HSBC Holdings plc	HSBC Holdings plc	GB	Y	LSE	HSBA	GB0005405286	LSE Filings	One of the world's largest banking groups. Domiciled in the UK; major operations in Hong Kong.
+Siemens	Siemens AG	Siemens AG	DE	Y	XETRA	SIE	DE0007236101	Deutsche Börse	Largest industrial manufacturing company in Europe. Spun off Siemens Energy in 2020.
+Alibaba Group	Alibaba Group Holding Limited	Alibaba Group Holding Limited	KY	Y	HKEX	9988	KYG017191142	HKEX Filings	E-commerce and cloud giant. Reorganized into six business groups in 2023.
+Zurich Insurance Group	Zurich Insurance Group AG	Zurich Insurance Group AG	CH	Y	SIX	ZURN	CH0011075394	SIX Filings	Swiss insurance giant. Operates globally in over 200 countries and territories.
+Unilever plc	Unilever plc	Unilever plc	GB	Y	LSE	ULVR	GB00BVZK7T90	LSE Filings	Unified under a single British parent (Unilever plc) in Nov 2020, ending dual-headed structure.
+Berkshire Hathaway	Berkshire Hathaway Inc.	Berkshire Hathaway Inc.	US	Y	NYSE	BRK.B	US0846707026	SEC Filings	Diverse conglomerate led by Warren Buffett (Chairman) and Greg Abel (CEO as of 2026).
+LVMH	LVMH Moët Hennessy Louis Vuitton SE	Financière Agache (Arnault Family)	FR	Y	Euronext Paris	MC	FR0000121014	Euronext	Leading luxury goods group. Includes Louis Vuitton, Dior, and Tiffany & Co.
+Novartis AG	Novartis AG	Novartis AG	CH	Y	SIX	NOVN	CH0012005267	SIX Filings	Global pharma company. Spun off Alcon (2019) and Sandoz (2023).
+Rio Tinto Group	Rio Tinto plc	Rio Tinto plc	GB	Y	LSE	RIO	GB0007188757	LSE Filings	Dual-listed structure (PLC in UK, Ltd in AU). This record represents the UK parent.
+Ping An Insurance	Ping An Insurance (Group) Company of China, Ltd.	Charoen Pokphand / Shenzhen Investment	CN	Y	HKEX	2318	CNE1000003X6	HKEX Filings	Chinese conglomerate; world's most valuable insurance brand as of 2024.
+Sony Group Corporation	Sony Group Corporation	Sony Group Corporation	JP	Y	Tokyo Stock Exchange	6758	JP3435000009	JPX Filings	Conglomerate. Renamed from Sony Corporation in 2021 to separate the group from electronics.
+Volkswagen AG	Volkswagen Aktiengesellschaft	Porsche Automobil Holding SE	DE	Y	XETRA	VOW3	DE0007664039	Deutsche Börse	Parent of Audi, Porsche, Bentley, etc. Controlled by the Porsche-Piëch family.
+UBS Group AG	UBS Group AG	UBS Group AG	CH	Y	SIX	UBSG	CH0244767585	SIX Filings	Swiss banking giant. Completed acquisition of Credit Suisse in 2023.
+Deutsche Bank AG	Deutsche Bank Aktiengesellschaft	Deutsche Bank Aktiengesellschaft	DE	Y	XETRA	DBK	DE0005140008	Deutsche Börse	Largest German banking group. Operates in nearly 60 countries.
