@@ -1,0 +1,24 @@
+Entity Name	Legal Name	Ultimate Parent	Parent Domicile (ISO alpha-2)	Is Public (Y/N)	Stock Exchange (N/A if private)	Ticker	ISIN (N/A if unavailable)	Source	Notes
+Toyota Motor Corporation	Toyota Motor Corporation	Toyota Motor Corporation	JP	Y	Tokyo Stock Exchange	7203	JP3633400001	Public Filings	Global automotive leader; pioneer in hybrid technology.
+JPMorgan Chase	JPMorgan Chase & Co.	JPMorgan Chase & Co.	US	Y	NYSE	JPM	US46625H1005	SEC Filings	Largest US bank by assets. Formed via merger of Chase Manhattan and J.P. Morgan & Co.
+Royal Dutch Shell	Shell plc	Shell plc	GB	Y	LSE	SHEL	GB00BP6MXD84	LSE Filings	Rebranded from Royal Dutch Shell plc to Shell plc in Jan 2022; moved tax residence to UK.
+Tata Consultancy Services	Tata Consultancy Services Limited	Tata Sons Private Limited	IN	Y	NSE	TCS	INE467B01029	NSE India	Flagship subsidiary of the Tata Group; world's second largest IT services brand.
+Petrobras	Petróleo Brasileiro S.A. - Petrobras	Government of Brazil	BR	Y	B3	PETR4	BRPETRACNPR6	B3 Filings	State-controlled Brazilian multinational petroleum industry corporation.
+AIA Group	AIA Group Limited	AIA Group Limited	HK	Y	HKEX	1299	HK0000069689	HKEX Filings	Largest independent publicly listed pan-Asian life insurance group.
+Nokia Oyj	Nokia Oyj	Nokia Oyj	FI	Y	Nasdaq Helsinki	NOKIA	FI0009000681	Nasdaq	Finnish telecommunications, information technology, and consumer electronics company.
+Credit Suisse	Credit Suisse AG	UBS Group AG	CH	Y	SIX	UBSG	CH0244767585	UBS Filings	Merged into UBS Group AG in 2023 following a Swiss government-brokered rescue.
+Instagram	Instagram, LLC	Meta Platforms, Inc.	US	Y	NASDAQ	META	US30303M1027	SEC Filings	Visual social media platform; major revenue driver for Meta.
+YouTube	YouTube, LLC	Alphabet Inc.	US	Y	NASDAQ	GOOGL	US02079K3059	SEC Filings	World's largest video-sharing platform; primary subsidiary of Alphabet.
+Fidelity International	FIL Limited	FIL Limited	BM	N	N/A	N/A	N/A	Company Website	Global investment manager; private and operationally independent from US Fidelity.
+Skype Technologies	Skype Communications S.à r.l.	Microsoft Corporation	US	Y	NASDAQ	MSFT	US5949181045	Microsoft Filings	Voice and video call service; integrated into Microsoft's software ecosystem.
+LinkedIn Corporation	LinkedIn Corporation	Microsoft Corporation	US	Y	NASDAQ	MSFT	US5949181045	Microsoft Filings	Professional networking site; acquired by Microsoft for $26.2 billion in 2016.
+Aramco	Saudi Arabian Oil Company	Government of Saudi Arabia	SA	Y	Tadawul	2222	SA14TG012N13	Tadawul Filings	World's largest oil producer; 2019 IPO was the largest in history.
+Infosys Limited	Infosys Limited	Infosys Limited	IN	Y	NSE	INFY	INE009A01021	NSE India	Multinational IT consulting and services; pioneer in India's software export boom.
+Banco Santander	Banco Santander, S.A.	Banco Santander, S.A.	ES	Y	BMAD	SAN	ES0113900J37	CNMV Filings	Largest Spanish banking group; major presence in Europe and the Americas.
+BHP Group	BHP Group Limited	BHP Group Limited	AU	Y	ASX	BHP	AU000000BHP4	ASX Filings	One of the world's largest mining companies; unified dual-listed structure in 2022.
+ICBC	Industrial and Commercial Bank of China Limited	Central Huijin Investment	CN	Y	HKEX	1398	CNE1000003G1	HKEX Filings	World's largest bank by total assets and market capitalization.
+Warner Bros Discovery	Warner Bros. Discovery, Inc.	Warner Bros. Discovery, Inc.	US	Y	NASDAQ	WBD	US9344231026	SEC Filings	Media giant formed via the 2022 merger of WarnerMedia and Discovery Inc.
+Raytheon Technologies	RTX Corporation	RTX Corporation	US	Y	NYSE	RTX	US74965L1008	SEC Filings	Defense and aerospace leader; rebranded as RTX in July 2023.
+Daimler AG	Mercedes-Benz Group AG	Mercedes-Benz Group AG	DE	Y	XETRA	MBG	DE0007100000	Company Filings	Renamed in 2022 to focus on luxury cars/vans; spun off Daimler Truck.
+Facebook	Meta Platforms, Inc.	Meta Platforms, Inc.	US	Y	NASDAQ	META	US30303M1027	SEC Filings	Rebranded to Meta in Oct 2021 to reflect focus on the metaverse.
+Refinitiv	Refinitiv US Holdings Inc.	London Stock Exchange Group plc	GB	Y	LSE	LSEG	GB00B0SWJX34	LSEG Filings	Financial market data provider; acquired by LSEG in early 2021.
