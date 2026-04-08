@@ -1,0 +1,88 @@
+Entity Name	Legal Name	Ultimate Parent	Parent Domicile (ISO alpha-2)	Is Public (Y/N)	Stock Exchange	Ticker	ISIN	Source	Notes
+Fortinet Inc	Fortinet, Inc.	Fortinet, Inc.	US	Y	NASDAQ	FTNT	US34959E1091	SEC Filings	Cybersecurity leader specializing in network security and firewalls.
+Logitech International SA	Logitech International S.A.	Logitech International S.A.	CH	Y	SIX / NASDAQ	LOGN / LOGI	CH0025751329	SIX / SEC Filings	Computer peripherals and software giant; dual-listed in Switzerland and US.
+Garmin Ltd	Garmin Ltd.	Garmin Ltd.	CH	Y	NASDAQ	GRMN	CH0114405324	SEC Filings	Domiciled in Switzerland; major player in GPS technology and wearables.
+Crowdstrike Holdings Inc	CrowdStrike Holdings, Inc.	CrowdStrike Holdings, Inc.	US	Y	NASDAQ	CRWD	US22788C1053	SEC Filings	Endpoint protection and cloud security specialist.
+Datadog Inc	Datadog, Inc.	Datadog, Inc.	US	Y	NASDAQ	DDOG	US23804L1035	SEC Filings	Observability and security platform for cloud applications.
+Snowflake Inc	Snowflake Inc.	Snowflake Inc.	US	Y	NYSE	SNOW	US8334451098	SEC Filings	Cloud-based data warehousing and analytics company.
+Palantir Technologies Inc	Palantir Technologies Inc.	Palantir Technologies Inc.	US	Y	NYSE	PLTR	US69608A1088	SEC Filings	Data analytics software for defense, intelligence, and commercial enterprise.
+Block Inc	Block, Inc.	Block, Inc.	US	Y	NYSE	SQ	US0893521012	SEC Filings	Formerly Square, Inc. Fintech parent of Cash App, Square, and Tidal.
+Zscaler Inc	Zscaler, Inc.	Zscaler, Inc.	US	Y	NASDAQ	ZS	US98980G1022	SEC Filings	Cloud security company; pioneer of Zero Trust Exchange.
+MongoDB Inc	MongoDB, Inc.	MongoDB, Inc.	US	Y	NASDAQ	MDB	US60937P1066	SEC Filings	General-purpose database platform (NoSQL).
+Servicenow Inc	ServiceNow, Inc.	ServiceNow, Inc.	US	Y	NYSE	NOW	US81762P1021	SEC Filings	Workflow automation platform for enterprise operations.
+Workday Inc	Workday, Inc.	Workday, Inc.	US	Y	NASDAQ	WDAY	US98138H1014	SEC Filings	Enterprise cloud applications for finance and HR.
+Palo Alto Networks Inc	Palo Alto Networks, Inc.	Palo Alto Networks, Inc.	US	Y	NASDAQ	PANW	US6974351057	SEC Filings	Cybersecurity giant; focus on network and cloud security.
+Constellation Software Inc	Constellation Software Inc.	Constellation Software Inc.	CA	Y	TSX	CSU	CA21037X1006	TSX Filings	Vertical market software conglomerate; known for decentralized acquisition model.
+Spirax-Sarco Engineering plc	Spirax-Sarco Engineering plc	Spirax-Sarco Engineering plc	GB	Y	LSE	SPX	GB00BWFGQN14	LSE Filings	Industrial engineering group specializing in steam and thermal energy.
+Intertek Group plc	Intertek Group plc	Intertek Group plc	GB	Y	LSE	ITRK	GB0031638363	LSE Filings	Multinational assurance, inspection, product testing, and certification.
+Carl Zeiss Meditec AG	Carl Zeiss Meditec AG	Carl-Zeiss-Stiftung (Majority)	DE	Y	XETRA	AFX	DE0005313704	Deutsche Börse	Medical technology manufacturer specializing in ophthalmology.
+Sartorius AG	Sartorius AG	Sartorius AG	DE	Y	XETRA	SRT	DE0007165607	Deutsche Börse	Laboratory and pharmaceutical equipment provider (Preferred shares listed).
+Epiroc AB	Epiroc AB	Epiroc AB	SE	Y	Nasdaq Stockholm	EPI A	SE0011166933	Nasdaq Stockholm	Swedish industrial company; mining and infrastructure equipment leader.
+Coloplast A/S	Coloplast A/S	Coloplast A/S	DK	Y	Nasdaq Copenhagen	COLO B	DK0060448595	Nasdaq Copenhagen	Medical device manufacturer focusing on ostomy, urology, and wound care.
+VAT Group AG	VAT Group AG	VAT Group AG	CH	Y	SIX	VACN	CH0311393003	SIX Filings	High-performance vacuum valves for semiconductor manufacturing.
+Belimo Holding AG	BELIMO Holding AG	BELIMO Holding AG	CH	Y	SIX	BEAN	CH1101099830	SIX Filings	Leader in actuators and valve solutions for HVAC systems.
+Kinaxis Inc	Kinaxis Inc.	Kinaxis Inc.	CA	Y	TSX	KXS	CA49448Q1090	TSX Filings	Supply chain management and sales/operations planning software.
+Descartes Systems Group Inc	The Descartes Systems Group Inc.	The Descartes Systems Group Inc.	CA	Y	TSX / NASDAQ	DSG	CA2499021052	TSX Filings	Logistics and supply chain management software.
+Pilbara Minerals Limited	Pilbara Minerals Limited	Pilbara Minerals Limited	AU	Y	ASX	PLS	AU000000PLS0	ASX Filings	Major Australian lithium producer.
+Aristocrat Leisure Limited	Aristocrat Leisure Limited	Aristocrat Leisure Limited	AU	Y	ASX	ALL	AU000000ALL7	ASX Filings	World leader in gaming content and technology (slot machines).
+Computershare Limited	Computershare Limited	Computershare Limited	AU	Y	ASX	CPU	AU000000CPU5	ASX Filings	Global financial services; stock transfer agency and registrar.
+Knorr-Bremse AG	Knorr-Bremse AG	Knorr-Bremse AG	DE	Y	XETRA	KBX	DE000KBX1006	Deutsche Börse	Braking systems for rail and commercial vehicles.
+Kongsberg Gruppen ASA	Kongsberg Gruppen ASA	Government of Norway (Majority)	NO	Y	Oslo Børs	KOG	NO0003566407	Oslo Børs	Aerospace, defense, and maritime technology.
+Nibe Industrier AB	NIBE Industrier AB	NIBE Industrier AB	SE	Y	Nasdaq Stockholm	NIBE B	SE0015988019	Nasdaq Stockholm	Sustainable energy solutions (heat pumps).
+Midea Group Co Ltd	Midea Group Co., Ltd.	Midea Group Co., Ltd.	CN	Y	SZSE / HKEX	000333 / 403	CNE100001QQ5	CN Filings	Major global electrical appliance manufacturer.
+Wuliangye Yibin Co Ltd	Wuliangye Yibin Co., Ltd.	Wuliangye Yibin Co., Ltd.	CN	Y	SZSE	000858	CNE000000W87	CN Filings	Premium Chinese Baijiu producer.
+CATL	Contemporary Amperex Technology Co., Limited	Contemporary Amperex Technology Co., Limited	CN	Y	SZSE	300750	CNE100003662	CN Filings	World's largest lithium-ion battery manufacturer for EVs.
+Longi Green Energy Technology Co Ltd	LONGi Green Energy Technology Co., Ltd.	LONGi Green Energy Technology Co., Ltd.	CN	Y	SSE	601012	CNE100001CG0	CN Filings	Leader in monocrystalline silicon solar technology.
+Haier Smart Home Co Ltd	Haier Smart Home Co., Ltd.	Haier Group	CN	Y	SSE / HKEX	600690 / 6690	CNE100003KL8	CN Filings	Global leader in home appliances; unified A+H listing.
+Foshan Haitian Flavouring and Food Company Ltd	Foshan Haitian Flavouring and Food Company Ltd.	Foshan Haitian Flavouring and Food Company Ltd.	CN	Y	SSE	603288	CNE100001S93	CN Filings	Largest soy sauce and seasoning producer in China.
+Sungrow Power Supply Co Ltd	Sungrow Power Supply Co., Ltd.	Sungrow Power Supply Co., Ltd.	CN	Y	SZSE	300274	CNE100001592	CN Filings	Global leader in solar inverter solutions.
+BYD Company Limited	BYD Company Limited	BYD Company Limited	CN	Y	SZSE / HKEX	002594 / 1211	CNE100000296	CN Filings	Major EV manufacturer; dual battery and car specialist.
+Meituan	Meituan	Meituan	CN	Y	HKEX	3690	KYG596691041	HKEX Filings	E-commerce platform for services (food delivery, travel, retail).
+Xiaomi Corporation	Xiaomi Corporation	Xiaomi Corporation	CN	Y	HKEX	1810	KYG9830T1067	HKEX Filings	Consumer electronics and smart manufacturing giant.
+Naver Corporation	NAVER Corporation	NAVER Corporation	KR	Y	KRX	035420	KR7035420009	KRX Filings	South Korean portal and search engine leader; parent of Line.
+Kakao Group	Kakao Corp.	Kakao Corp.	KR	Y	KRX	035720	KR7035720002	KRX Filings	Dominant mobile platform (KakaoTalk) and ecosystem in South Korea.
+Keyence Corporation	Keyence Corporation	Keyence Corporation	JP	Y	Tokyo Stock Exchange	6861	JP3236200006	JPX Filings	Leader in factory automation, sensors, and machine vision.
+Shin-Etsu Chemical Co Ltd	Shin-Etsu Chemical Co., Ltd.	Shin-Etsu Chemical Co., Ltd.	JP	Y	Tokyo Stock Exchange	4063	JP3371200001	JPX Filings	World's largest semiconductor silicon and PVC producer.
+Shiseido Company Limited	Shiseido Company, Limited	Shiseido Company, Limited	JP	Y	Tokyo Stock Exchange	4911	JP3351600006	JPX Filings	Leading Japanese beauty and cosmetics company.
+Ajinomoto Co Inc	Ajinomoto Co., Inc.	Ajinomoto Co., Inc.	JP	Y	Tokyo Stock Exchange	2802	JP3119600009	JPX Filings	Global food and amino science company.
+Kubota Corporation	Kubota Corporation	Kubota Corporation	JP	Y	Tokyo Stock Exchange	6326	JP3266400005	JPX Filings	Manufacturer of tractors, water systems, and infrastructure.
+Hoya Corporation	HOYA Corporation	HOYA Corporation	JP	Y	Tokyo Stock Exchange	7741	JP3837800006	JPX Filings	Optical glass and medical technology specialist.
+Fubon Financial Holding Co. Ltd	Fubon Financial Holding Co., Ltd.	Fubon Financial Holding Co., Ltd.	TW	Y	Taiwan Stock Exchange	2881	TW0002881000	TWSE Filings	Major Taiwanese financial services group.
+Dah Sing Financial Holdings Limited	Dah Sing Financial Holdings Limited	Dah Sing Financial Holdings Limited	HK	Y	HKEX	440	HK0440001309	HKEX Filings	Banking and insurance services in Hong Kong and Macau.
+China Construction Bank Corporation	China Construction Bank Corporation	Central Huijin Investment	CN	Y	HKEX / SSE	939 / 601939	CNE1000003W8	HKEX Filings	One of the 'Big Four' state-owned banks in China.
+Agricultural Bank of China Limited	Agricultural Bank of China Limited	Central Huijin Investment	CN	Y	HKEX / SSE	1288 / 601288	CNE100000Q43	HKEX Filings	One of the 'Big Four' state-owned banks in China.
+Bank of China Limited	Bank of China Limited	Central Huijin Investment	CN	Y	HKEX / SSE	3988 / 601988	CNE1000001Z5	HKEX Filings	International-focused 'Big Four' state bank in China.
+PetroChina Company Limited	PetroChina Company Limited	CNPC (Majority)	CN	Y	HKEX / SSE	857 / 601857	CNE1000003W8	HKEX Filings	Chinese oil and gas giant; largest producer in China.
+China Mobile Limited	China Mobile Limited	China Mobile Communications Group	CN	Y	HKEX / SSE	941 / 600941	HK0941009539	HKEX Filings	World's largest telecom carrier by subscribers.
+China Petroleum & Chemical Corporation	China Petroleum & Chemical Corporation	Sinopec Group (Majority)	CN	Y	HKEX / SSE	386 / 600028	CNE1000002Q2	HKEX Filings	Major refiner and petrochemical producer (Sinopec).
+Emirates NBD Bank PJSC	Emirates NBD Bank PJSC	Investment Corporation of Dubai	AE	Y	DFM	EMIRATESNBD	AEA000201011	DFM Filings	Largest bank in Dubai; state-linked.
+First Abu Dhabi Bank PJSC	First Abu Dhabi Bank PJSC	Government of Abu Dhabi (Majority)	AE	Y	ADX	FAB	AEA000201011	ADX Filings	Largest bank in the UAE; formed by merger of NBAD and FGB.
+Sasol Limited	Sasol Limited	Sasol Limited	ZA	Y	JSE / NYSE	SOL / SSL	ZAE000006896	JSE Filings	Integrated energy and chemical company; coal-to-liquids technology.
+Eskom Holdings SOC Ltd	Eskom Holdings SOC Ltd.	Government of South Africa	ZA	N	N/A	N/A	N/A	Company Website	South African state-owned electricity utility.
+Kenvue Inc	Kenvue Inc.	Kenvue Inc.	US	Y	NYSE	KVUE	US49177J1025	SEC Filings	Consumer health giant (Tylenol, Listerine); spun off from Johnson & Johnson in 2023.
+GE HealthCare Technologies Inc	GE HealthCare Technologies Inc.	GE HealthCare Technologies Inc.	US	Y	NASDAQ	GEHC	US36266G1076	SEC Filings	Medical technology and imaging leader; spun off from GE in 2023.
+Organon & Co	Organon & Co.	Organon & Co.	US	Y	NYSE	OGN	US68571T1034	SEC Filings	Women's health and biosimilars; spun off from Merck & Co. (MSD) in 2021.
+Stellantis NV	Stellantis N.V.	Stellantis N.V.	NL	Y	NYSE / Euronext	STLA	NL00150001Q9	Euronext	Auto conglomerate (Jeep, Fiat, Peugeot); formed by merger of PSA and FCA.
+Panasonic Holdings Corporation	Panasonic Holdings Corporation	Panasonic Holdings Corporation	JP	Y	Tokyo Stock Exchange	6752	JP3866800000	JPX Filings	Conglomerate; shifted to holding company structure in 2022.
+NatWest Group plc	NatWest Group plc	UK Government (Minority Shareholder)	GB	Y	LSE	NWG	GB00BM8S5C01	LSE Filings	British banking giant; formerly Royal Bank of Scotland Group.
+Siemens Energy AG	Siemens Energy AG	Siemens Energy AG	DE	Y	XETRA	ENR	DE000ENER6Y0	Deutsche Börse	Energy technology (Grid, Wind via Siemens Gamesa); spun off from Siemens in 2020.
+Covestro AG	Covestro AG	Covestro AG	DE	Y	XETRA	1COV	DE0006062144	Deutsche Börse	High-performance polymer materials (Polyurethanes, Polycarbonates).
+Sandoz Group AG	Sandoz Group AG	Sandoz Group AG	CH	Y	SIX	SDZ	CH1243598427	SIX Filings	Generics and biosimilars leader; spun off from Novartis in 2023.
+Endeavor Group Limited	Endeavor Group Holdings, Inc.	Endeavor Group Holdings, Inc.	US	Y	NYSE	EDR	US29260V1052	SEC Filings	Entertainment giant (UFC, WWE via TKO); deal to go private announced 2024.
+SABIC	Saudi Basic Industries Corporation	Saudi Aramco (70%)	SA	Y	Tadawul	2010	SA0007879121	Tadawul Filings	Global chemicals leader; majority-owned by Saudi Aramco.
+TSMC	Taiwan Semiconductor Manufacturing Company Limited	TSMC	TW	Y	TWSE / NYSE	2330 / TSM	TW0002330008	TWSE Filings	World's most valuable semiconductor foundry.
+BBVA	Banco Bilbao Vizcaya Argentaria, S.A.	BBVA	ES	Y	BMAD	BBVA	ES0113211835	CNMV Filings	Spanish banking group with massive operations in Mexico and Turkey.
+SSE plc	SSE plc	SSE plc	GB	Y	LSE	SSE	GB0007908733	LSE Filings	UK-based multinational energy company focused on renewables.
+NIO Inc	NIO Inc.	NIO Inc.	CN	Y	NYSE / HKEX	NIO / 9866	US62914V1061	SEC Filings	Chinese premium electric vehicle manufacturer.
+WPP plc	WPP plc	WPP plc	GB	Y	LSE	WPP	JE00B8KF9B49	LSE Filings	World's largest advertising and communications group; Jersey-domiciled.
+Just Eat Takeaway.com NV	Just Eat Takeaway.com N.V.	Just Eat Takeaway.com N.V.	NL	Y	Euronext Amsterdam	TKWY	NL0012015101	Euronext	European online food delivery giant.
+Kuehne + Nagel International AG	Kuehne + Nagel International AG	Kuehne + Nagel International AG	CH	Y	SIX	KNIN	CH0025238863	SIX Filings	Global freight forwarding and logistics leader.
+A.P.Moller - Maersk A/S	A.P. Møller - Mærsk A/S	A.P. Møller Holding A/S	DK	Y	Nasdaq Copenhagen	MAERSK B	DK0010244508	Nasdaq Copenhagen	Global integrated container logistics and shipping giant.
+Dr. Ing. h.c. F. Porsche AG	Dr. Ing. h.c. F. Porsche AG	Volkswagen AG (Majority)	DE	Y	XETRA	P911	DE000PAG9113	Deutsche Börse	Luxury sports car manufacturer; IPO in 2022 (Preferred shares listed).
+Anheuser-Busch InBev SA/NV	Anheuser-Busch InBev SA/NV	Anheuser-Busch InBev SA/NV	BE	Y	Euronext Brussels	ABI	BE0974293251	Euronext	World's largest brewer; headquarted in Leuven, Belgium.
+Muenchener Rueckversicherungs-Gesellschaft AG	Münchener Rückversicherungs-Gesellschaft AG	Munich Re	DE	Y	XETRA	MUV2	DE0008430026	Deutsche Börse	World's leading reinsurer (Munich Re).
+L'Oreal SA	L'Oréal S.A.	Bettencourt Meyers Family / Nestlé	FR	Y	Euronext Paris	OR	FR0000120321	Euronext	World's largest cosmetics and beauty company.
+H & M Hennes & Mauritz AB	H & M Hennes & Mauritz AB	Persson Family (Majority)	SE	Y	Nasdaq Stockholm	HM B	SE0000106270	Nasdaq Stockholm	Global fashion retailer (H&M, COS, & Other Stories).
+Lindt & Spruengli AG	Chocoladefabriken Lindt & Sprüngli AG	Lindt & Spruengli AG	CH	Y	SIX	LISN	CH0010570759	SIX Filings	Swiss luxury chocolatier (Registered shares).
+Yahoo!	Yahoo Inc.	Apollo Global Management (90%)	US	N	N/A	N/A	N/A	Company Website	Private; acquired from Verizon by Apollo in 2021.
+CM.com N.V.	CM.com N.V.	CM.com N.V.	NL	Y	Euronext Amsterdam	CMCOM	NL0012459994	Euronext	Cloud software for conversational commerce and marketing.
